@@ -1,0 +1,7 @@
+{
+  "name": "TheRandomLesson",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
